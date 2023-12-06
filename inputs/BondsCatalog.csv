@@ -1,0 +1,6 @@
+cusip,faceValue,couponRate,maturity,yield,description
+912810TV0,100.0,0.0475,30,0.0310,"30-Year Treasury Bond"
+91282CJJ1,100.0,0.0450,10,0.028,"10-Year Treasury Bond"
+91282CJK8,100.0,0.0425,3,0.032,"3-Year Treasury Bond"
+91282CJF9,100.0,0.0375,5,0.030,"5-Year Treasury Note"
+91282CJE2,100.0,0.0215,2,0.0197,"2-Year Treasury Note"
